@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "format": "cpp",
+        "unordered_map": "cpp",
+        "tuple": "cpp"
+    }
+}
