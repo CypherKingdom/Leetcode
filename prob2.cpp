@@ -44,7 +44,6 @@
     (consistent with the input format).
 */
 
-#include <iostream>
 using namespace std;
 
 // Definition for singly-linked list.

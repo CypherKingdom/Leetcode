@@ -18,6 +18,8 @@ The repository is organized as follows:
 | 3 | Medium | Longest Substring Without Repeating Characters | Find the length of the longest substring without duplicate characters | [prob3.cpp](./prob3.cpp) |
 | 4 | Hard | Median of Two Sorted Arrays | Find the median of two sorted arrays | [prob4.cpp](./prob4.cpp) |
 | 5 | Medium | Longest Palindromic Substring | Find the longest palindromic substring | [prob5.cpp](./prob5.cpp) |
+| 9 | Easy | Palindrome Number | Check if an integer is a palindrome | [prob9.cpp](./prob9.cpp) |
+| 13 | Easy | Roman to Integer | Convert roman numerals to integer | [prob13.cpp](./prob13.cpp) |
 | 88 | Easy | Merge Sorted Array | Merge two sorted arrays into one | [prob88.cpp](./prob88.cpp) |
 | 632 | Hard | Smallest Range Covering Elements from K Lists | Find smallest range containing elements from k lists | [prob632.cpp](./prob632.cpp) |
 

@@ -57,7 +57,6 @@
     Designed to merge two sorted arrays (nums1 and nums2) in an efficient and organized way.
 */
 
-#include <iostream>
 using namespace std;
 #include <vector>
 

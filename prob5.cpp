@@ -15,7 +15,7 @@
     s consist of only digits and English letters.
 */
 
-#include <iostream>
+#include <string>
 using namespace std;
 
 class Solution

@@ -38,7 +38,6 @@
     If no solution is found, the function returns an empty vector {}.
 */
 
-#include <iostream>
 using namespace std;
 #include <vector>
 #include <unordered_map>

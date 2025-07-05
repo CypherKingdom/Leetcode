@@ -57,7 +57,6 @@
     Additional vectors v and index are used, resulting in O(n) space.
 */
 
-#include <iostream>
 using namespace std;
 #include <vector>
 
