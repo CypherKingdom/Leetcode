@@ -55,6 +55,9 @@ The repository is organized as follows:
 | 112 | Easy | Path Sum | Python | [prob112.py](./prob112.py) |
 | 118 | Easy | Pascal's Triangle | Python | [prob118.py](./prob118.py) |
 | 119 | Easy | Pascal's Triangle II | Python | [prob119.py](./prob119.py) |
+| 121 | Easy | Best Time to Buy and Sell Stock | Python | [prob121.py](./prob121.py) |
+| 125 | Easy | Valid Palindrome | Python | [prob125.py](./prob125.py) |
+| 136 | Easy | Single Number | Python | [prob136.py](./prob136.py) |
 | 175 | Easy | Combine Two Tables | Python | [prob175.py](./prob175.py) |
 | 176 | Easy | Second Highest Salary | Python | [prob176.py](./prob176.py) |
 | 177 | Easy | Nth Highest Salary | Python | [prob177.py](./prob177.py) |
